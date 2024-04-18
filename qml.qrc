@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Back.qml</file>
+        <file>Background.qml</file>
+        <file>CardItem.qml</file>
+        <file>CartoonPage.qml</file>
+        <file>ClassesLabel.qml</file>
+        <file>LayoutDetailPage.qml</file>
+        <file>LayoutPageView.qml</file>
+        <file>LayoutRecordPage.qml</file>
+        <file>main.qml</file>
+        <file>MoviePage.qml</file>
+        <file>MyChartView.qml</file>
+        <file>MyLineChartView.qml</file>
+        <file>MyPieSlice.qml</file>
+        <file>MyPopImageGrid.qml</file>
+        <file>MyPopImageGridRecord.qml</file>
+        <file>MyPopImageGridRoot.qml</file>
+        <file>MyPopUp.qml</file>
+        <file>MyPopUpImage.qml</file>
+        <file>MyPopUpRecord.qml</file>
+        <file>MyPopUpRoot.qml</file>
+        <file>MySlider.qml</file>
+        <file>MyTextField.qml</file>
+        <file>PersonalCenterPage.qml</file>
+        <file>RecordItem.qml</file>
+        <file>RoundButton.qml</file>
+        <file>RoundImage.qml</file>
+        <file>RoundSlider.qml</file>
+        <file>RoundText.qml</file>
+        <file>ShowProcess.qml</file>
+        <file>Test.qml</file>
+        <file>Text.qml</file>
+    </qresource>
+</RCC>

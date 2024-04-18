@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/player.jpg</file>
+        <file>image/touxiang.jpg</file>
+        <file>image/success.png</file>
+        <file>image/fail.png</file>
+        <file>image/bac_2.png</file>
+        <file>image/bac_3.png</file>
+        <file>image/changeCardImage.png</file>
+        <file>image/bac_4.png</file>
+        <file>image/bac_5.png</file>
+        <file>image/bac_6.png</file>
+        <file>image/bac_7.png</file>
+        <file>image/bac_8.png</file>
+        <file>image/bac_9.png</file>
+        <file>image/bac_1.png</file>
+        <file>image/Logo.png</file>
+        <file>image/la_bac_1.png</file>
+        <file>image/la_bac_2.png</file>
+        <file>image/la_bac_3.png</file>
+        <file>image/la_bac_4.png</file>
+        <file>image/pic_1.png</file>
+        <file>image/pic_2.png</file>
+        <file>image/pic_3.png</file>
+        <file>image/pic_4.png</file>
+        <file>image/Logo.ico</file>
+    </qresource>
+</RCC>
